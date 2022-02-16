@@ -1,10 +1,10 @@
 ### 👋 Hello, I'm Jonghan!
 
-🌱 I’m currently learning React.js, HTML, CSS and JS.
-❤️ I love learning new technology.
-📝 I'm currently a student at SAIT.
-📫 How to reach me: jonghan.park@edu.sait.ca
-📚 I have learned 
+🌱 I’m currently learning React.js, HTML, CSS and JS.  
+❤️ I love learning new technology.  
+📝 I'm currently a student at SAIT.  
+📫 How to reach me: jonghan.park@edu.sait.ca  
+📚 I have learned   
 
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&show_icons=true&theme=radical)
 <!--
