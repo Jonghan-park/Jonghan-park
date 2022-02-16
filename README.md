@@ -4,7 +4,7 @@
 ❤️ I love learning new technology.  
 📝 I'm currently a student at SAIT.  
 📫 How to reach me: jonghan.park@edu.sait.ca  
-💻 Please visit my blog: https://jonghan-park.github.io/
+💻 Please visit my blog: https://jonghan-park.github.io/  
 📚 I have learned   
 
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
