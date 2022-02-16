@@ -6,7 +6,9 @@
 📫 How to reach me: jonghan.park@edu.sait.ca  
 📚 I have learned   
 
-![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)
+![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghan-park)](https://github.com/Jonghan-park/github-readme-stats)
+
 <!--
 
 - 🔭 I’m currently working on ...
