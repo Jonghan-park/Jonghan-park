@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Jonghan!
 
-🌱 I’m currently learning React.js, HTML, CSS and JS.  
+🌱 I’m currently learning BootStrap, HTML, CSS and JS.  
 ❤️ I love learning new technology.  
 📝 I'm currently a student at SAIT.  
 📫 How to reach me: jonghan.park@edu.sait.ca  
