@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Jonghan!
 
-🌱 I’m currently learning React.js, Node.js, MYSQL, HTML, CSS and JS to become a full-stack developer ! 
+🌱 I’m currently learning React.js, Node.js, MYSQL, HTML, CSS and JS to become a full-stack developer !   
 ❤️ I love learning new technology.  
 📝 I'm currently a student at SAIT.  
 📫 How to reach me: jonghan.park@edu.sait.ca  
