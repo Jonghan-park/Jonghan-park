@@ -5,7 +5,7 @@
 📝 I'm currently a student at SAIT.  
 📫 How to reach me: jonghan.park@edu.sait.ca  
 💻 Please visit my blog: https://jonghan-park.github.io/  
-📚 I have learned HTML, CSS, JS, SQL and JAVA.
+📚 I have learned HTML, CSS, JS, SQL, MYSQL, JSP/Servlet and JAVA.
 
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghan-park&theme=radical&layout=compact)](https://github.com/Jonghan-park/github-readme-stats)
