@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning MongoDB, Express, React.js, Node.js, HTML, CSS and JS to become a full-stack developer !   
 ❤️ I love learning new technology.  
-📝 I'm currently a student at SAIT.  
+📝 I graduated from SAIT.
 📫 How to reach me: jonghan.park@edu.sait.ca  
 💻 Please visit my blog: https://jonghan-park.github.io/  
 📚 I have learned HTML, CSS, JS, SQL, MYSQL, JSP/Servlet and JAVA.
