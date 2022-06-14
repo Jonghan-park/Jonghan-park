@@ -5,7 +5,7 @@
 📝 I graduated from SAIT.
 📫 How to reach me: jonghan.park@edu.sait.ca  
 💻 Please visit my blog: https://jonghan-park.github.io/  
-💻 Please visit my portfolio website: https://jonghan-profile.netlify.app
+💻 Please visit my portfolio website: https://jonghan-profile.netlify.app   
 📚 I have learned HTML, CSS, JS, SQL, MYSQL, JSP/Servlet and JAVA.
 
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
