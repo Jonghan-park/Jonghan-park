@@ -3,7 +3,7 @@
 🌱 I’m currently learning JavaScript, React.js, HTML, CSS, Node.js, Express, MongoDB to become a full-stack developer !   
 ❤️ I love learning new technology.  
 📝 I graduated from SAIT.
-📫 How to reach me: pjh843@gmail.com 
+📫 How to reach me: pjh843@gmail.com  
 💻 Please visit my blog: https://jonghan-park.github.io/  
 💻 Please visit my portfolio website: https://jonghan-profile.netlify.app   
 📚 I have learned JavaScript, HTML, CSS, SQL, MYSQL, PL/SQL, JSP/Servlet and JAVA.
