@@ -6,7 +6,9 @@
 📫 How to reach me: pjh843@gmail.com  
 💻 Please visit my portfolio website: https://jonghan-profile.netlify.app   
 📚 I have learned JavaScript, HTML, CSS, SQL, MYSQL, PL/SQL, JSP/Servlet and JAVA.
+
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghan-park&theme=radical&layout=compact)](https://github.com/Jonghan-park/github-readme-stats)
 
 <!--
