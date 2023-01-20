@@ -1,11 +1,11 @@
 ### 👋 Hello, I'm Jonghan!
 
-🌱 I’m currently learning JavaScript, React.js, HTML, CSS, Node.js, Express, MongoDB to become a full-stack developer !   
+🌱 I’m currently learning JavaScript, React.js, HTML, CSS, Node.js, Express, PostgreSQL to become a full-stack developer !   
 ❤️ I love learning new technology.  
 📝 I graduated in Software development at SAIT.  
 📫 How to reach me: pjh843@gmail.com  
 💻 Please visit my portfolio website: https://jonghan-profile.netlify.app   
-📚 I have learned JavaScript, HTML, CSS, SQL, MYSQL, PL/SQL, JSP/Servlet and JAVA.
+📚 I have learned JavaScript, HTML, CSS, SQL, MYSQL, PL/SQL, MongoDB, JSP/Servlet and JAVA.
 
 ![Jonghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghan-park&count_private=true&show_icons=true&theme=radical)  
 
