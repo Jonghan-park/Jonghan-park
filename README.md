@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm Jonghan!
 
-🌱 I’m currently learning JavaScript, React.js, Typescript, PostgreSQL to become a full-stack developer !   
-❤️ I love learning new technology.  
+🌱Hello, my name is [Your Name] and I'm currently learning JavaScript, React.js, Typescript, and PostgreSQL with the goal of becoming a full-stack developer. I'm excited to work on projects that challenge me and help me grow as a developer. My main interests are in web development and building user-friendly applications that solve real-world problems. I'm always eager to learn new technologies and best practices.
 📝 I graduated in Software development at SAIT.  
 📫 How to reach me: pjh843@gmail.com  
 💻 Please visit my portfolio website: https://jonghan-profile.netlify.app   
